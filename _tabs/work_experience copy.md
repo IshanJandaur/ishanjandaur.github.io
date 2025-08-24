@@ -93,7 +93,7 @@ title: Work Experience
         <img src="{{ site.url }}/assets/img/toray-logo.png" alt="Toray Logo">
     </div>
     <div class="experience-content">
-        <strong>Expert/Technical Services Intern</strong> | <a href="https://toray-tac.com" target="_blank">Toray Advanced Composites Website</a>  
+        <strong>Expert/Technical Services Intern</strong> | <a href="https://toraytac.com" target="_blank">Toray Advanced Composites Website</a>  
         📍 <em>Fairfield, CA</em>
         <ul>
             <li>Communicated directly with customers on test results & specifications</li>
@@ -102,3 +102,56 @@ title: Work Experience
         </ul>
     </div>
 </div>
+
+
+<style>
+.experience-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+    padding: 15px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.experience-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.experience-container img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.experience-container img:hover {
+    transform: scale(1.05);
+}
+
+.experience-content {
+    flex: 2;
+}
+
+.experience-content ul {
+    padding-left: 20px;
+}
+
+.experience-content li {
+    margin-bottom: 10px;
+}
+
+/* Link hover effect */
+.experience-content a {
+    color: #1a73e8;
+    text-decoration: none;
+    transition: color 0.3s, text-decoration 0.3s;
+}
+
+.experience-content a:hover {
+    color: #0c47a1;
+    text-decoration: underline;
+}
+</style>

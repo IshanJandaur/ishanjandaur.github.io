@@ -3,46 +3,60 @@ layout: page
 title: About Me
 ---
 
-    <div class="container">
-        <div style="text-align: center;">
-        <img src="{{ site.url }}/assets/img/profile_pic.jpg" alt="Barker Bird Animatronic" style="width: 80%; max-width: 600px; height: auto; border-radius: 10px; background-color: transparent;">
-        </div>
-        <br>
-        <div class="buttons">
-            <a href="https://www.linkedin.com/in/ishanjandaur/" target="_blank" class="button linkedin">🔗 Connect on LinkedIn</a>
-            </div>
-            <a href="{{ site.url }}/assets/lib/Ishan_Jandaur_Resume.pdf" download class="button resume">📄 Download Resume</a>
-        </div>
-        <br>
+<div class="container" style="text-align: center;">
+
+    <!-- Tagline above the picture -->
+    <p class="tagline" style="font-size: 1.2rem; color: #555; font-style: italic; margin-bottom: 15px;">
+        Product Design & Development Engineer
+    </p>
+
+    <!-- Profile picture -->
+    <img src="{{ site.url }}/assets/img/profile_pic.jpg" alt="profile_pic" 
+         style="width: 80%; max-width: 600px; height: auto; border-radius: 10px; display: block; margin: 0 auto 20px auto;">
+
+    <!-- Buttons -->
+    <div class="buttons" style="margin-bottom: 30px;">
+        <a href="https://www.linkedin.com/in/ishanjandaur/" target="_blank" class="button linkedin"
+           style="padding: 8px 16px; border-radius: 6px; text-decoration: none; background-color: #306998; color: white; margin-right: 10px;">
+           Connect on LinkedIn
+        </a>
+        <a href="{{ site.url }}/assets/lib/Ishan_Jandaur_Resume.pdf" download class="button resume"
+           style="padding: 8px 16px; border-radius: 6px; text-decoration: none; background-color: #306998; color: white;">
+           Download Resume
+        </a>
+    </div>
+
+    <!-- About text (left-justified) -->
+    <div style="text-align: left; max-width: 600px; margin: 0 auto 30px auto;">
         <p>
             Hi, my name is Ishan Jandaur and I am currently a product design engineer at Lyten. In this role, I design cylindrical battery cells using Li-S chemistry.
         </p>
         <p>
             I was born and raised in San Jose, CA and have a bachelor's degree from California Polytechnic State University - San Luis Obispo.
-            Although my degree is in mechanical engineering, my work experience and interests have varied quite a bit. I have worked in batteries, on medical devices, and even in high-volume contract manufacturing environments.
+            Although my degree is in mechanical engineering, my work experience and interests have varied quite a bit. I have worked in battery design, medical devices, and both high-volume contract and pilot manufacturing environments.
         </p>
         <p>
             Feel free to reach out to me on LinkedIn or by email if you want to chat!
         </p>
-
-        <div class="hobbies">
-            <h3>Hobbies:</h3>
-            <ul>
-                <li>Training my Dog</li>
-                <li>Collecting Vinyl Records</li>
-                <li>Playing Basketball</li>
-                <li>Traveling/Backpacking</li>
-                <li>Cooking New Foods</li>
-            </ul>
-        </div>
-
-        <h3>Photo Gallery</h3>
-        <div class="image-gallery">
-        <div style="text-align: center;">        
-            <img src="{{ site.url }}/assets/img/backpacking.png" alt="backpacking" style="width: 80%; max-width: 600px; height: auto; border-radius: 10px; background-color: transparent;">
-            <img src="{{ site.url }}/assets/img/maiya.jpg" alt="maiya" style="width: 80%; max-width: 600px; height: auto; border-radius: 10px; background-color: transparent;">
-        </div>
     </div>
 
-</body>
-</html>
+    <!-- Hobbies (left-justified) -->
+    <div class="hobbies" style="text-align: left; max-width: 600px; margin: 0 auto 30px auto;">
+        <h3>Hobbies:</h3>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+            <li>Training my Dog</li>
+            <li>Collecting Vinyl Records</li>
+            <li>Playing Basketball</li>
+            <li>Traveling/Backpacking</li>
+            <li>Cooking New Foods</li>
+        </ul>
+    </div>
+
+    <div class="image-gallery" style="max-width: 600px; margin: 0 auto;">
+        <img src="{{ site.url }}/assets/img/backpacking.png" alt="backpacking" 
+             style="width: 100%; height: auto; border-radius: 10px; display: block; margin-bottom: 10px;">
+        <img src="{{ site.url }}/assets/img/maiya.jpg" alt="maiya" 
+             style="width: 100%; height: auto; border-radius: 10px; display: block;">
+    </div>
+
+</div>
