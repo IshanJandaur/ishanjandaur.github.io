@@ -40,7 +40,7 @@ title: Work Experience
         <strong>Product Design Engineer</strong> | <a href="https://lyten.com" target="_blank">Lyten Website</a>  
         📍 <em>San Jose, CA</em>
         <ul>
-            <li>Spearheaded roadmap for <strong>first<strong> 250 Wh/kg 21700 Li-S battery</li>
+            <li>Spearheaded roadmap for <strong>first</strong> 250 Wh/kg 21700 Li-S battery</li>
             <li>Developed MES process flow to optimize material tracking</li>
             <li>Defined equipment specifications for multi-GWh factory</li>
             <li>Designed and sourced materials meeting performance & weight targets</li>
@@ -60,9 +60,9 @@ title: Work Experience
          <strong>Project Engineer Intern</strong> | <a href="https://flex.com" target="_blank">Flex Website</a>  
         📍 <em>Milpitas, CA</em>
         <ul>
-            <li>Structured and scrubbed <strong>800-line BOM<strong> for production release</li>
+            <li>Structured and scrubbed <strong>800-line BOM</strong> for production release</li>
             <li>Trained operators on complex subassembly processes</li>
-            <li>Created & managed <strong>in-house MES system<strong> for inventory tracking</li>
+            <li>Created & managed <strong>in-house MES system</strong> for inventory tracking</li>
             <li>Assisted PCB fabrication line by troubleshooting defects</li>
         </ul>
     </div>
@@ -78,7 +78,7 @@ title: Work Experience
          <strong>Product Engineering Intern</strong> | <a href="https://enovix.com" target="_blank">Enovix Website</a> 
         📍 <em>Fremont, CA</em>
         <ul>
-            <li>Developed and tested next-gen lithium-ion battery with <strong>5% energy increase<strong></li>
+            <li>Developed and tested next-gen lithium-ion battery with <strong>5% energy increase</strong></li>
             <li>Led installation & qualification of Instron machine for weld pull testing</li>
             <li>Designed experiments to establish max allowable clamp force on cells</li>
             <li>Created work instructions & fixtures to streamline testing</li>
