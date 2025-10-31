@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cylindrical Cell Anode Tab to Can Weld
-permalink: /projects/deep_can_weld
+permalink: /projects/deep_can_weld/
 ---
 [← Back to Projects](/projects/)
 

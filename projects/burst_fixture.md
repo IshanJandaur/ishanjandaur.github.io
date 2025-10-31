@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Burst Pressure Fixture
-permalink: /projects/burst_fixture
+permalink: /projects/burst_fixture/
 ---
 [← Back to Projects](/projects/)
 
