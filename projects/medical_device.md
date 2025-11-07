@@ -5,6 +5,9 @@ permalink: /projects/medical_device/
 ---
 [← Back to Projects](/projects/)
 
+**Duration**
+March 2022 - June 2022
+
 **Task/Problem**  
 Develop an accurate method to measure the force required to dissect human tissue during a simulated surgical procedure.
 
@@ -13,6 +16,13 @@ Develop an accurate method to measure the force required to dissect human tissue
 - Calibrated off-the-shelf sensors to capture pressure applied by users’ hands.  
 - Built and prototyped the system using an Arduino Mega, breadboard, and supporting electrical/wiring components.  
 - Iteratively tested and refined the fixture to ensure accurate and repeatable force measurements.
+
+**Struggles**  
+- Calibrating sensor and using accelormeter accurately
+- Wire management and harnessing
+- Smooth use of fixture - we were using screw heads as key in keyway
+- Documentation for someone unfamiliar with fixture to learn how to use
+- Learning surgical procedures and how to use tissue model
 
 **Results**  
 - Created a functional prototype capable of accurately measuring applied forces.  

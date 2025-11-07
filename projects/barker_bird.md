@@ -5,6 +5,9 @@ permalink: /projects/barker_bird/
 ---
 [← Back to Projects](/projects/)
 
+**Duration**
+January 2022 - June 2022
+
 **Task/Problem**  
 Develop a functional robotic bird inspired by Disneyland’s Barker Bird that can serve as a teaching tool for students learning animatronics.
 
@@ -13,6 +16,12 @@ Develop a functional robotic bird inspired by Disneyland’s Barker Bird that ca
 - Integrated multiple electromechanical components and sensors to enable realistic motion.  
 - Developed customizable code to control the bird’s movements and behaviors.  
 - Iteratively tested and refined the design to ensure reliable operation and educational usability.
+
+**Struggles**  
+- Learning circuits and coding in order to control the animatronic
+- Extremely open-ended; We had to decide what was a priority for us to implement
+- Initial servo motors not strong enough for wing linkage system - basically acted like a cantilever beam
+  - Ordered more powerful servo motors and redesigned body for mounting
 
 **Results**  
 - Delivered a fully functional robotic bird demonstrating animatronic principles.  

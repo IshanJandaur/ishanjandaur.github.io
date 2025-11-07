@@ -11,6 +11,9 @@ The following is an overview of projects I have completed. Feel free to click on
 
 ## [Crimp/Groove Redesign](/projects/groove_crimp/)
 
+**Duration:**
+July 2024 - September 2024
+
 **Task/Problem:**  
 Redesigned the can’s neck and groove to ensure compatibility with a new crimping machine and manufacturing process.
 
@@ -32,6 +35,9 @@ Achieving an ~80% yield and a throughput of 100 parts per shift during initial p
 
 ## [Injection Molded Parts for Sealing](/projects/injection_mold/)
 
+**Duration:**
+January 2025 - April 2025
+
 **Task/Problem:**  
 Design a new gasket for the cap that ensures proper fitment with multiple components, including the can and cap pieces.
 
@@ -50,6 +56,9 @@ Successfully implemented the gasket into production to enable +6 Wh/kg gain due 
 ---
 
 ## [Burst Pressure Fixture](/projects/burst_fixture/)
+
+**Duration:**
+January 2024 - March 2024
 
 **Task/Problem:**  
 Validate crimp integrity and verify supplier-specified CID and vent pressures during specification changes or tooling conversions on the production line.
@@ -70,6 +79,9 @@ Created a reliable tool for both in-process quality checks and development valid
 
 ## [Cylindrical Cell Anode Tab Weld Process](/projects/deep_can_weld/)
 
+**Duration:**
+January 2023 - June 2023
+
 **Task/Problem:**  
 Ensure reliable anode tab welds on the pilot line by validating process parameters and specifications to achieve proper electrical performance and mechanical integrity.
 
@@ -87,7 +99,33 @@ Achieved ~95% yield at 100 parts per shift on pilot line equipment
 </div>
 ---
 
+## [JR & Cylindrical Cell Modeling](/projects/jr_model/)
+
+**Duration**
+March 2023 - Present
+
+**Task/Problem:**  
+Develop accurate electrochemical, jelly roll, and cell models to enable the design first Li–S cylindrical cells (18650 and 21700 formats) with proper dimensional, mass, and performance characteristics.
+
+**Actions:**  
+- Estimated electrode and separator lengths for JR with Archimedes Spiral
+- Incorporated electrolyte volumes, porosity, and electrode loadings to help determine capacity of cell
+- Conducted tolerance stack analysis on mass and dimensions 
+- Compared against SolidWorks model and data from jellyroll dissections
+
+**Results:** 
+Successfully designed and modeled the first Li–S cylindrical cells in both 18650 and 21700 formats
+
+---
+
+<div style="text-align: center;">
+  <img src="{{ site.url }}/assets/img/jr.png" alt="Barker Bird Animatronic" style="width: 80%; max-width: 600px; height: auto; border-radius: 10px; background-color: transparent;">
+</div>
+
 ## [Barker Bird Animatronic](/projects/barker_bird/)
+
+**Duration:**
+January 2022 - June 2022
 
 **Task/Problem:**  
 Develop a functional robotic bird inspired by Disneyland’s Barker Bird that can serve as a teaching tool for animatronics.
@@ -113,6 +151,9 @@ Delivered a fully functional robotic bird that demonstrates animatronic principl
 ---
 
 ## [MEDITEC Medical Device Project](/projects/medical_device)
+
+**Duration:**
+March 2022 - June 2022
 
 **Task/Problem:**  
 Develop an accurate method to measure the force required to dissect human tissue during a simulated surgical procedure.

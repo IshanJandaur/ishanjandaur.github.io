@@ -5,6 +5,9 @@ permalink: /projects/burst_fixture/
 ---
 [← Back to Projects](/projects/)
 
+**Duration**
+January 2024 - March 2024
+
 **Task/Problem**  
 Validate crimp integrity whenever specifications changed or tooling conversions occurred on the line, and verify supplier-specified CID and vent pressures for safety and compliance.
 
@@ -14,6 +17,12 @@ Validate crimp integrity whenever specifications changed or tooling conversions 
 - Implemented a drag pointer pressure gauge to monitor sequential material activations and ensure safety mechanisms triggered at specified pressures.  
 - Used the test to check for leaks in crimps and verify proper operation of safety mechanisms, particularly important for Li-Sulfur cells which behave differently than conventional Lithium-Ion cells.  
 - Collaborated with vendors to adjust CID and vent pressures based on test results to ensure compliance with UN38.3 and thermal runaway/abuse testing.
+
+**Struggles**  
+- Parts leaking during testing
+  - Learned we really need to torque fittings on in order to prevent leaking
+-  CID activation purely based on noise "clicking" sound
+- Create documentation and training for QC technicians to conduct tests during IQC
 
 **Results**  
 - Created a reliable fixture for both in-process quality control (IQC) and development validation.  

@@ -5,6 +5,9 @@ permalink: /projects/groove_crimp/
 ---
 [← Back to Projects](/projects/)
 
+**Duration**
+July 2024 - September 2024
+
 **Task/Problem:**  
 Redesigned the can’s neck and groove to ensure compatibility with a new crimping machine and manufacturing process.
 
@@ -13,6 +16,11 @@ Redesigned the can’s neck and groove to ensure compatibility with a new crimpi
 - Analyzed process capabilities and tolerances to ensure reliable assembly.
 - Validated performance through multiple methods, including burst pressure testing, CT scans, and in-process quality checks.
 - Coordinated cross-functionally to ensure other components fit correctly and the design integrated with the manufacturing line.
+
+**Struggles**  
+- Juggling multiple constraints with assembly (JR Height, Overhang for sufficient crimp)
+- Need to understand manufacturing capability for processes and achievable tolerances
+- Need to develop method for testing if crimp is sufficient or not
 
 **Results:**  
 - Achieved ~80% yield and throughput of 100 parts per shift during initial production runs.

@@ -5,6 +5,9 @@ permalink: /projects/deep_can_weld/
 ---
 [← Back to Projects](/projects/)
 
+**Duration**
+January 2023 - June 2023
+
 **Task/Problem**  
 Ensure reliable anode tab welds on a pilot production line by validating process parameters and specifications to achieve proper electrical performance and mechanical integrity.
 
@@ -13,6 +16,15 @@ Ensure reliable anode tab welds on a pilot production line by validating process
 - Validated welds to ensure sufficient current draw and compliance with shock and vibration testing.  
 - Conducted extensive DOEs and equipment/material overhauls to optimize the process for the pilot line.  
 - Developed QC tests and inspection frequency to monitor production for issues such as sparks, splatter, or insufficient welds.
+
+**Struggles**  
+- Poor machine design induced moment on working parts
+- Sparking and burnout suspected by dirty/contaminated cans
+  - Developed cleaninlesss spec with Dyne pens as apart of IQC
+- Address upstream process to ensure success of this process
+  - "Coring" of separator process improved to allow welding electrode through hole in Jellyroll
+- Relative clearance of Jellyroll with respect to can was too large
+  - Required machine/process design with more moving components in order to accomodate semi-automatic pilot line
 
 **Results**  
 - Achieved **95% yield at 100 parts per minute** on a pilot line.  
