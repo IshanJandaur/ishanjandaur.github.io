@@ -5,30 +5,30 @@ permalink: /projects/barker_bird/
 ---
 [← Back to Projects](/projects/)
 
-**Duration**
+**Duration:**
 January 2022 - June 2022
 
 **Task/Problem**  
 Develop a functional robotic bird inspired by Disneyland’s Barker Bird that can serve as a teaching tool for students learning animatronics.
 
-**Approach / Actions**  
+**Approach / Actions:**  
 - Collaborated with three other engineers to design a 3D-printed skeleton capable of singing, flapping, extending its wings, and rotating on a base.  
 - Integrated multiple electromechanical components and sensors to enable realistic motion.  
 - Developed customizable code to control the bird’s movements and behaviors.  
 - Iteratively tested and refined the design to ensure reliable operation and educational usability.
 
-**Struggles**  
+**Struggles:**  
 - Learning circuits and coding in order to control the animatronic
 - Extremely open-ended; We had to decide what was a priority for us to implement
 - Initial servo motors not strong enough for wing linkage system - basically acted like a cantilever beam
   - Ordered more powerful servo motors and redesigned body for mounting
 
-**Results**  
+**Results:**  
 - Delivered a fully functional robotic bird demonstrating animatronic principles.  
 - Created an educational tool for students to learn about electromechanical systems, programming, and animatronics.  
 - Provided a platform for interactive learning and experimentation.
 
-**Skills & Tools Applied**  
+**Skills & Tools Applied:**  
 - 3D Printing
 - Linkage Design
 - Motor control with PWM 

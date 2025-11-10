@@ -5,19 +5,20 @@ permalink: /projects/deep_can_weld/
 ---
 [← Back to Projects](/projects/)
 
-**Duration**
+**Duration:**
 January 2023 - June 2023
 
-**Task/Problem**  
-Ensure reliable anode tab welds on a pilot production line by validating process parameters and specifications to achieve proper electrical performance and mechanical integrity.
+**Task/Problem:**  
+Ensure reliable anode tab welds on a pilot production line by validating process parameters and specifications to achieve proper electrochemical performance and mechanical integrity.
 
-**Approach / Actions**  
-- Controlled and optimized process parameters for the SAT anode tab weld equipment.  
+**Approach / Actions:**  
+- Controlled and optimized process parameters for site acceptance
 - Validated welds to ensure sufficient current draw and compliance with shock and vibration testing.  
 - Conducted extensive DOEs and equipment/material overhauls to optimize the process for the pilot line.  
 - Developed QC tests and inspection frequency to monitor production for issues such as sparks, splatter, or insufficient welds.
+- Analyzed data using Python and Juptyer Notebooks
 
-**Struggles**  
+**Struggles:**  
 - Poor machine design induced moment on working parts
 - Sparking and burnout suspected by dirty/contaminated cans
   - Developed cleaninlesss spec with Dyne pens as apart of IQC
@@ -25,27 +26,45 @@ Ensure reliable anode tab welds on a pilot production line by validating process
   - "Coring" of separator process improved to allow welding electrode through hole in Jellyroll
 - Relative clearance of Jellyroll with respect to can was too large
   - Required machine/process design with more moving components in order to accomodate semi-automatic pilot line
+  - Revisited jellyroll design
 
-**Results**  
+**Results:**  
 - Achieved **95% yield at 100 parts per minute** on a pilot line.  
 - Ensured weld integrity and compliance with electrical and mechanical requirements.  
 - Implemented a robust QC program enabling consistent production without defects.
 
-**Skills & Tools Applied**  
+**Skills & Tools Applied:**  
 - Process Engineering
 - Weld Testing
 - Material Development
 - Design of Experiments
 - Quality Control 
+- Data Analysis (Plotly, Pandas)
 
 <div style="text-align: center; margin-top: 2rem;">
   <p>Here’s a presentation on the process engineering and specification development:</p>
   <iframe src="https://1drv.ms/p/c/5585bcea26bca413/IQS_qd9A45GOR6OzTq6ZuJY-ATcQANvD9_kgKdugTyWTgXE" width="600" height="400" frameborder="0" scrolling="no"></iframe>" 
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 2rem;">
   <img src="{{ site.url }}/assets/img/shock_vibe.JPEG" alt="Shock & Vibe Testing" style="width: 80%; max-width: 600px; height: auto; border-radius: 10px; background-color: transparent;">
   <p style="margin-top: 5px; font-style: italic;">Shock and Vibe testing</p>
+</div>
+
+## Examples of Pull Force Data
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="flex: 1 1 250px; text-align: center;">
+    <img src="{{ site.url }}/assets/img/pull_force_SPC.png" alt="Image 1" style="width: 100%; border-radius: 10px;">
+    <p style="margin-top: 5px; font-style: italic;">Modified SPC chart of pull force (not real data)</p>
+  </div>
+
+  <div style="flex: 1 1 250px; text-align: center;">
+    <img src="{{ site.url }}/assets/img/boxplot_pull_force.png" alt="Image 1" style="width: 100%; border-radius: 10px;">
+    <p style="margin-top: 5px; font-style: italic;">Box plot of pull force (not real data)</p>
+  </div>  
+
 </div>
 ---
 

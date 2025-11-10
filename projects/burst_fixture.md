@@ -5,34 +5,34 @@ permalink: /projects/burst_fixture/
 ---
 [← Back to Projects](/projects/)
 
-**Duration**
+**Duration:**
 January 2024 - March 2024
 
-**Task/Problem**  
-Validate crimp integrity whenever specifications changed or tooling conversions occurred on the line, and verify supplier-specified CID and vent pressures for safety and compliance.
+**Task/Problem:**  
+- Validate crimp integrity with spec change or tooling conversions occurred on the line
+- Verify supplier-specified CID and vent pressures for safety and compliance
 
-**Approach / Actions**  
+**Approach / Actions:**  
 - Designed a hydrostatic burst pressure test using a draw water pump, piping, and pressure gauges to evaluate cylindrical cell samples.  
-- Prepared cylindrical cell samples by pipe-cutting crimped ends and fitting them onto swage lock fittings at the test end of the fixture.  
-- Implemented a drag pointer pressure gauge to monitor sequential material activations and ensure safety mechanisms triggered at specified pressures.  
-- Used the test to check for leaks in crimps and verify proper operation of safety mechanisms, particularly important for Li-Sulfur cells which behave differently than conventional Lithium-Ion cells.  
-- Collaborated with vendors to adjust CID and vent pressures based on test results to ensure compliance with UN38.3 and thermal runaway/abuse testing.
+- Prepared cylindrical cell samples by pipe-cutting crimped ends and fitting them onto Swagelock fittings at the test end of the fixture.  
+- Implemented a drag pointer pressure gauge to monitor sequential material activations and ensure safety mechanisms triggered within specified pressure ranges.
+- Collaborated with vendors to adjust CID and vent pressures based on test results to ensure compliance with UN38.3, abuse testing, and new chemistry
 
-**Struggles**  
+**Struggles:**  
 - Parts leaking during testing
-  - Learned we really need to torque fittings on in order to prevent leaking
+  - Specified torque on fittings on in order to prevent leaking
 -  CID activation purely based on noise "clicking" sound
 - Create documentation and training for QC technicians to conduct tests during IQC
 
-**Results**  
+**Results:**  
 - Created a reliable fixture for both in-process quality control (IQC) and development validation.  
 - Ensured crimp integrity and confirmed safety mechanisms operated as specified.  
 - Provided a critical testing capability for Li-Sulfur cells, improving confidence in safety and performance.  
 
-**Skills & Tools Applied**  
+**Skills & Tools Applied:**  
 - Test Development
 - Assembly and Integration
-- DFM of machined parts and DFA of entire assembly 
+- DFM of machined parts and DFA 
 - UN38.3 testing
 - Hydrostatic testing
 - Training

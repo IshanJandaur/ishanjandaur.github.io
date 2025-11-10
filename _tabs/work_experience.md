@@ -31,7 +31,7 @@ title: Work Experience
 </style>
 
 ## Lyten Experience  
-**January 2022 – Present**  
+**January 2023 – Present**  
 <div class="experience-container">
     <div>
         <img src="{{ site.url }}/assets/img/lyten.png" alt="Lyten Logo">
@@ -93,7 +93,7 @@ title: Work Experience
         <img src="{{ site.url }}/assets/img/toray-logo.png" alt="Toray Logo">
     </div>
     <div class="experience-content">
-        <strong>Expert/Technical Services Intern</strong> | <a href="https://toraytac.com" target="_blank">Toray Advanced Composites Website</a>  
+        <strong>Technical Services Intern</strong> | <a href="https://toraytac.com" target="_blank">Toray Advanced Composites Website</a>  
         📍 <em>Fairfield, CA</em>
         <ul>
             <li>Communicated directly with customers on test results & specifications</li>

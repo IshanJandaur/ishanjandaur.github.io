@@ -83,12 +83,12 @@ Created a reliable tool for both in-process quality checks and development valid
 January 2023 - June 2023
 
 **Task/Problem:**  
-Ensure reliable anode tab welds on the pilot line by validating process parameters and specifications to achieve proper electrical performance and mechanical integrity.
+Ensure reliable anode tab welds on the pilot line by validating process parameters and specifications to achieve proper electrochemical performance and mechanical integrity.
 
 **Actions:**  
 - Created and optimized process/machine parameters by conducting extensive DOEs
 - Designed and installed equpiment upgrades and material changes
-- Developed maintenance schedulee
+- Developed maintenance schedule
 - Developed QC tests and inspection frequencies
 
 **Results:** 
@@ -114,7 +114,7 @@ Develop accurate electrochemical, jelly roll, and cell models to enable the desi
 - Compared against SolidWorks model and data from jellyroll dissections
 
 **Results:** 
-Successfully designed and modeled the first Li–S cylindrical cells in both 18650 and 21700 formats
+Successfully designed and modeled the first Li–S cylindrical cells in both 18650 and 21700 formats; Lengths within 5% accuracy of actual lengths at dissection
 
 ---
 

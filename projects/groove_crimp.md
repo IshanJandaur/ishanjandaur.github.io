@@ -5,26 +5,29 @@ permalink: /projects/groove_crimp/
 ---
 [← Back to Projects](/projects/)
 
-**Duration**
+**Duration:**
 July 2024 - September 2024
 
 **Task/Problem:**  
-Redesigned the can’s neck and groove to ensure compatibility with a new crimping machine and manufacturing process.
+Design the can’s neck and groove for two form factors to ensure compatibility with a manufacturing methods and components.
 
 **Actions:**  
 - Benchmarked existing designs to understand industry standards and best practices.
 - Analyzed process capabilities and tolerances to ensure reliable assembly.
 - Validated performance through multiple methods, including burst pressure testing, CT scans, and in-process quality checks.
-- Coordinated cross-functionally to ensure other components fit correctly and the design integrated with the manufacturing line.
+- Coordinated cross-functionally to ensure other components fit correctly and integration with manufacturing/operations
 
 **Struggles**  
-- Juggling multiple constraints with assembly (JR Height, Overhang for sufficient crimp)
-- Need to understand manufacturing capability for processes and achievable tolerances
-- Need to develop method for testing if crimp is sufficient or not
+- Juggling multiple constraints with assembly (JR Height, Overhang for sufficient crimp, etc.)
+- Understand manufacturing capability for processes and achievable tolerances
+- Need to develop method for testing pass/fail crimp
 
 **Results:**  
 - Achieved ~80% yield and throughput of 100 parts per shift during initial production runs.
 - Implemented a robust, repeatable crimp design that met all performance and quality specifications.
+- Created burst pressure fixture and implemented as QC 
+  ([See Burst Pressure Fixture Project](/projects/burst_fixture/))
+
 
 **Skills & Tools Applied:**  
 - Tolerance stack analysis

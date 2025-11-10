@@ -58,8 +58,8 @@ title: Skills
     <div class="skill" style="animation-delay: 0s;"><span>SolidWorks – 70%</span><div class="progress"><div class="progress-bar cad" style="--bar-width: 70%; animation-delay: 0s;"></div></div></div>
     <div class="skill" style="animation-delay: 0.3s;"><span>Autodesk Fusion 360 – 70%</span><div class="progress"><div class="progress-bar cad" style="--bar-width: 70%; animation-delay: 0.3s;"></div></div></div>
     <div class="skill" style="animation-delay: 0.6s;"><span>Engineering Drawings – 70%</span><div class="progress"><div class="progress-bar cad" style="--bar-width: 70%; animation-delay: 0.6s;"></div></div></div>
-    <div class="skill" style="animation-delay: 0.9s;"><span>GD&T – 60%</span><div class="progress"><div class="progress-bar cad" style="--bar-width: 50%; animation-delay: 0.9s;"></div></div></div>
-    <div class="skill" style="animation-delay: 1.2s;"><span>PDM – 50%</span><div class="progress"><div class="progress-bar cad" style="--bar-width: 50%; animation-delay: 1.2s;"></div></div></div>
+    <div class="skill" style="animation-delay: 0.9s;"><span>GD&T – 70%</span><div class="progress"><div class="progress-bar cad" style="--bar-width: 70%; animation-delay: 0.9s;"></div></div></div>
+    <div class="skill" style="animation-delay: 1.2s;"><span>PDM – 70%</span><div class="progress"><div class="progress-bar cad" style="--bar-width: 70%; animation-delay: 1.2s;"></div></div></div>
   </div>
 
   <!-- Manufacturing Knowledge -->
@@ -72,9 +72,9 @@ title: Skills
     <div class="skill" style="animation-delay: 0.9s;"><span>DFM/DFA – 70%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 70%; animation-delay: 0.9s;"></div></div></div>
     <div class="skill" style="animation-delay: 1.2s;"><span>Quality Control – 70%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 70%; animation-delay: 1.2s;"></div></div></div>
     <div class="skill" style="animation-delay: 1.5s;"><span>3D Printing – 70%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 70%; animation-delay: 1.5s;"></div></div></div>
-    <div class="skill" style="animation-delay: 1.8s;"><span>Design of Experiments – 60%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 60%; animation-delay: 1.8s;"></div></div></div>
+    <div class="skill" style="animation-delay: 1.8s;"><span>Design of Experiments – 70%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 70%; animation-delay: 1.8s;"></div></div></div>
     <div class="skill" style="animation-delay: 2.1s;"><span>Tolerance Stack Analysis – 60%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 60%; animation-delay: 2.1s;"></div></div></div>
-    <div class="skill" style="animation-delay: 2.7s;"><span>MES/ERP – 30%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 30%; animation-delay: 2.7s;"></div></div></div>
+    <div class="skill" style="animation-delay: 2.7s;"><span>MES/ERP – 50%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 50%; animation-delay: 2.7s;"></div></div></div>
     <div class="skill" style="animation-delay: 3s;"><span>Machining – 30%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 30%; animation-delay: 3s;"></div></div></div>
     <div class="skill" style="animation-delay: 3.3s;"><span>Welding – 30%</span><div class="progress"><div class="progress-bar manufacturing" style="--bar-width: 30%; animation-delay: 3.3s;"></div></div></div>
   </div>

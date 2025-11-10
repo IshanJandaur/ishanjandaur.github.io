@@ -5,31 +5,31 @@ permalink: /projects/medical_device/
 ---
 [← Back to Projects](/projects/)
 
-**Duration**
+**Duration:**
 March 2022 - June 2022
 
-**Task/Problem**  
+**Task/Problem:**  
 Develop an accurate method to measure the force required to dissect human tissue during a simulated surgical procedure.
 
-**Approach / Actions**  
+**Approach / Actions:**  
 - Designed and 3D-printed a custom fixture to replicate the surgical procedure.  
-- Calibrated off-the-shelf sensors to capture pressure applied by users’ hands.  
+- Calibrated off-the-shelf sensors to capture pressure applied by procedure.  
 - Built and prototyped the system using an Arduino Mega, breadboard, and supporting electrical/wiring components.  
 - Iteratively tested and refined the fixture to ensure accurate and repeatable force measurements.
 
-**Struggles**  
+**Struggles:**  
 - Calibrating sensor and using accelormeter accurately
 - Wire management and harnessing
 - Smooth use of fixture - we were using screw heads as key in keyway
 - Documentation for someone unfamiliar with fixture to learn how to use
 - Learning surgical procedures and how to use tissue model
 
-**Results**  
+**Results:**  
 - Created a functional prototype capable of accurately measuring applied forces.  
 - Enabled quantitative evaluation of user technique and procedural consistency.  
 - Provided a tool for research and training on surgical techniques.
 
-**Skills & Tools Applied**  
+**Skills & Tools Applied:**  
 - 3D printing
 - Arduino
 - Sensor/Hardware

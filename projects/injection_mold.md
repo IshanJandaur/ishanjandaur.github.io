@@ -5,32 +5,33 @@ permalink: /projects/injection_mold/
 ---
 [← Back to Projects](/projects/)
 
-**Duration**
+**Duration:**
 January 2025 - April 2025
 
-**Task/Problem**  
-Design a new gasket for the cap to ensure proper fitment with multiple components — the can, cap pieces, and assemblies — while maintaining manufacturability and performance. The design had to accommodate material selection, tolerance requirements, and production constraints.
+**Task/Problem:**  
+Design a new gasket for cap to ensure proper fitment with multiple components while maintaining manufacturability and performance. 
 
-**Approach / Actions**  
-- Worked closely with suppliers to select materials that met performance requirements while balancing cost. Ensured vendors could meet tight tolerances and were open to iterative design changes.  
+**Approach / Actions:**  
+- Worked closely with suppliers to select materials that met performance requirements while balancing cost. 
+- Ensured vendors could meet tight tolerances and were open to iterative design changes.  
 - Conducted tolerance stack analysis (RSS) to confirm that all components would assemble correctly under production variations.  
 - Leveraged injection molding experience to refine part geometry and process parameters, optimizing for moldability, repeatability, and assembly fit.  
 - Implemented the final gasket design on the manufacturing line and verified fit, assembly, and functional performance under production conditions.
 
-**Struggles**  
+**Struggles:**  
 - Some materials not compatiable with electrolyte
   - Used soaking tests and GCMS to understand if material was compromised after being exposed to electrolyte
 - Required changes to necking/grooving machine due to lower thickness of gasket/cap
   - Owned the design spec change and process change for necking/grooving
 - Legacy tooling did not work with new cap due to various changes
-  - Created new tooling and drawings with GD&T. Sent for machining
+  - Created new tooling and drawings with GD&T. Sent for machining and installed on equipment
 
-**Results**  
+**Results:**  
 - Successfully implemented the gasket without impacting yield or performance.  
 - Enabled an approximate +6 Wh/kg gain due to the cap redesign.  
 - Provided a robust, repeatable design that met both functional and manufacturing requirements.
 
-**Skills & Tools Applied**  
+**Skills & Tools Applied:**  
 - Tolerance Stack Analysis 
 - Material Compatiability
 - Injection Molding DFM and DFA
