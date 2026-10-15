@@ -30,8 +30,23 @@ title: Work Experience
 }
 </style>
 
+## Tesla Experience  
+**April 2026 - Present**  
+<div class="experience-container">
+    <div>
+        <img src="{{ site.url }}/assets/img/tesla-logo.png" alt="Tesla Logo">
+    </div>
+    <div class="experience-content">
+        <strong>Product Design Engineer, Prismatic Cell</strong> | <a href="https://tesla.com" target="_blank">Tesla Website</a>  
+        📍 <em>Fremont, CA</em>
+        <ul>
+            <li>Develop mechanical components for prismatic battery cell</li>
+        </ul>
+    </div>
+</div>
+
 ## Lyten Experience  
-**January 2023 – Present**  
+**January 2023 – April 2026**  
 <div class="experience-container">
     <div>
         <img src="{{ site.url }}/assets/img/lyten.png" alt="Lyten Logo">
